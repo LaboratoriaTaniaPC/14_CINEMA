@@ -1,0 +1,46 @@
+/*clase*/
+.portadasgrandes{
+
+	width: 160px;
+	height: 200px;
+
+	display: block;
+	margin: auto;
+}
+
+
+
+/*clase*/
+.fotos{
+
+	width: 300px;
+	height: 400px;
+
+	display: block;
+	margin: auto;
+}
+
+/*seccion de pie de pagina*/
+footer{
+
+
+ background: gray;
+ color: black;
+ margin-top:40px;
+}
+
+.fondo {
+
+	background-color: yellow;
+    padding: 15px;
+}
+
+p {
+
+    color: blue;
+}
+
+hr {
+
+	color: black;
+}
